@@ -6,3 +6,8 @@ I found this article interesting on the surface level as it is crazy to read abo
 # Comment by Benson Li
 
 The key takeaways from the article highlight a scandal involving the UK Post Office and Fujitsu, where faulty accounting software led to wrongful prosecutions. This situation highlighta the importance of transparency and accountability in software development. We should think about policy reforms to mandate bug reporting and independent audits, while incentives for transparent bug acknowledgment are crucial. Additionally, mandatory third-party audits can ensure unbiased verification of software quality. Policymakers must carefully balance concerns about software access with the imperative of transparency to prevent similar injustices in the future.
+
+# Comment by Michael Han
+
+
+This article fascinatingly unveils the perilous intersection of software bugs and legal accountability, a sobering reminder of technology's potential to wreak havoc on lives when mishandled. The chilling tale of Fujitsu's flawed software leading to the unjust incarceration of hundreds of post office branch directors is not just a tech failure, but a stark illustration of moral and legal negligence. It's eye-opening how the concealment of software errors can cascade into a grave injustice, underscoring the critical need for transparency and ethical responsibility in technology. This narrative serves as a compelling call for stringent policies and third-party oversight in software development.
