@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Bug Disclosure
+I read [this artile](https://cepa.org/article/bugs-beware-uk-post-office-scandal-demands-software-companies-come-clean/) about some of the issues caused by undisclosed bugs in post office accounting software.
